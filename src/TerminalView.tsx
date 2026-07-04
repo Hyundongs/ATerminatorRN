@@ -97,8 +97,8 @@ const styles = StyleSheet.create({
   iconBtn: { paddingHorizontal: 12 },
   iconText: { color: '#fff', fontSize: 16, fontWeight: 'bold' },
   terminalBody: { flex: 1, padding: 8 },
-  terminalText: { color: '#4CAF50', fontFamily: 'monospace', fontSize: 14 },
-  inputText: { color: '#FFF' },
-  cursor: { color: '#4CAF50' },
+  terminalText: { color: '#4CAF50', fontFamily: 'monospace', fontSize: 18 },
+  inputText: { color: '#FFF', fontSize: 18, fontFamily: 'monospace' },
+  cursor: { color: '#4CAF50', fontSize: 18 },
   hiddenInput: { width: 0, height: 0, opacity: 0 },
 });
